@@ -1,0 +1,9 @@
+{
+    "name": "Bisexual Company",
+    "version_number": "1.0",
+    "website_url": "",
+    "description": "poster and painting replacements (DO NOT REPURPOSE ART)",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
